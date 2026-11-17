@@ -1,0 +1,1 @@
+# aspnetcore-minimal-api-endpoint-registration
